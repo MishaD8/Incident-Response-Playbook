@@ -54,7 +54,7 @@ The playbook includes predefined response steps for the following **cloud securi
 - [CIS AWS Security Benchmarks](https://www.cisecurity.org/benchmark/amazon_web_services)
 
 ## 📬 Contact & Contributions
-If you have ideas for improving the playbook, feel free to open a pull request or reach out on **[LinkedIn](https://www.linkedin.com/in/your-profile)**.
+If you have ideas for improving the playbook, feel free to open a pull request or reach out on **[LinkedIn](https://www.linkedin.com/in/mykhaylo-dyachenko)**.
 
 ---
 
